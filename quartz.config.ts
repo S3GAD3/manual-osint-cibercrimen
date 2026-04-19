@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Manual de Fuentes Abiertas para la Investigación de Cibercrimen",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
