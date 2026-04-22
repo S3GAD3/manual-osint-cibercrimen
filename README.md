@@ -94,21 +94,21 @@ Conceptos, marco legal, metodología y OPSEC del investigador.
 | # | Capítulo |
 |---|----------|
 | — | [Prólogo](00_Prologo.md) |
-| 1 | [Introducción](01_Introduccion.md) · [🌐 Web](https://s3gad3.github.io/manual-osint-cibercrimen/01_Introduccion/) |
-| 2 | [Marco jurídico](02_Marco_Juridico.md) · [🌐 Web](https://s3gad3.github.io/manual-osint-cibercrimen/02_Marco_Juridico/) |
-| 3 | [Metodología](03_Metodologia.md) · [🌐 Web](https://s3gad3.github.io/manual-osint-cibercrimen/03_Metodologia/) |
-| 4 | [OPSEC](04_OPSEC.md) · [🌐 Web](https://s3gad3.github.io/manual-osint-cibercrimen/04_OPSEC/) |
-| 5 | [Correos electrónicos](05_Email.md) · [🌐 Web](https://s3gad3.github.io/manual-osint-cibercrimen/05_Email/) |
-| 6 | [Teléfonos](06_Telefonos.md) · [🌐 Web](https://s3gad3.github.io/manual-osint-cibercrimen/06_Telefonos/) |
-| 7 | [Usernames / aliases](07_Usernames.md) · [🌐 Web](https://s3gad3.github.io/manual-osint-cibercrimen/07_Usernames/) |
-| 8 | [Redes sociales](08_Redes_Sociales.md) · [🌐 Web](https://s3gad3.github.io/manual-osint-cibercrimen/08_Redes_Sociales/) |
-| 9 | [Mensajería](09_Mensajeria.md) · [🌐 Web](https://s3gad3.github.io/manual-osint-cibercrimen/09_Mensajeria/) |
-| 10 | [Infraestructura](10_Infraestructura.md) · [🌐 Web](https://s3gad3.github.io/manual-osint-cibercrimen/10_Infraestructura/) |
-| 11 | [Imágenes](11_Imagenes.md) · [🌐 Web](https://s3gad3.github.io/manual-osint-cibercrimen/11_Imagenes/) |
-| 12 | [Financiero y cripto](12_Financiero.md) · [🌐 Web](https://s3gad3.github.io/manual-osint-cibercrimen/12_Financiero/) |
-| 13 | [Análisis relacional](13_Analisis_Relacional.md) · [🌐 Web](https://s3gad3.github.io/manual-osint-cibercrimen/13_Analisis_Relacional/) |
-| 14 | [Documentación policial](14_Documentacion.md) · [🌐 Web](https://s3gad3.github.io/manual-osint-cibercrimen/14_Documentacion/) |
-| 15 | [Automatización e IA](15_Automatizacion_IA.md) · [🌐 Web](https://s3gad3.github.io/manual-osint-cibercrimen/15_Automatizacion_IA/) |
+| 1 | [Introducción](01_Introduccion.md) · [🌐 Web](https://s3gad3.github.io/manual-osint-cibercrimen/Cap%C3%ADtulo-1.-Introducci%C3%B3n-al-OSINT-en-la-investigaci%C3%B3n-de-polic%C3%ADa-judicial) |
+| 2 | [Marco jurídico](02_Marco_Juridico.md) |
+| 3 | [Metodología](03_Metodologia.md) |
+| 4 | [OPSEC](04_OPSEC.md) |
+| 5 | [Correos electrónicos](05_Email.md) |
+| 6 | [Teléfonos](06_Telefonos.md) |
+| 7 | [Usernames / aliases](07_Usernames.md) |
+| 8 | [Redes sociales](08_Redes_Sociales.md) |
+| 9 | [Mensajería](09_Mensajeria.md) |
+| 10 | [Infraestructura](10_Infraestructura.md) |
+| 11 | [Imágenes](11_Imagenes.md) |
+| 12 | [Financiero y cripto](12_Financiero.md) |
+| 13 | [Análisis relacional](13_Analisis_Relacional.md) |
+| 14 | [Documentación policial](14_Documentacion.md) |
+| 15 | [Automatización e IA](15_Automatizacion_IA.md) |
 
 ---
 
@@ -116,8 +116,6 @@ Conceptos, marco legal, metodología y OPSEC del investigador.
 ---
 
 ## 🌐 Versión web
-
-El manual está disponible en formato navegable tipo libro:
 
 👉 https://s3gad3.github.io/manual-osint-cibercrimen/
 
@@ -129,11 +127,6 @@ El manual está disponible en formato navegable tipo libro:
 - 🔄 Actualización continua  
 - 📚 Publicación progresiva de capítulos  
 
-Este repositorio es una **obra en evolución**, adaptada a cambios:
-- Normativos  
-- Técnicos  
-- Metodológicos  
-
 ---
 
 ## ⚖️ Uso del contenido
@@ -143,17 +136,6 @@ Este repositorio es una **obra en evolución**, adaptada a cambios:
 - No constituye asesoramiento jurídico  
 - No sustituye formación oficial  
 - Debe adaptarse al marco legal vigente  
-
----
-
-## 🤝 Contribuciones
-
-Proyecto en desarrollo individual.  
-Futuras contribuciones podrán incluir:
-
-- Mejoras metodológicas  
-- Correcciones técnicas  
-- Aportaciones documentales  
 
 ---
 
